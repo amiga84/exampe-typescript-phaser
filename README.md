@@ -9,4 +9,4 @@ You can't use 'import' or 'export' in typescript files, because there is none mo
 | `npm run tsc` | Transpile typescript files. |
 | `npm run sassc` | Generate css |
 | `npm run build` | Run tsc and sassc |
-| `npm listen` | start simple http-server |
+| `npm run listen` | start simple http-server |
